@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PFMCore.TFileHandler" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TFileHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PFMCore.THandlerFactory" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="PFMCore.THandlerFactory.TZipHandlerFactory" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>THandlerFactory.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="PFMCore.THandlerFactory.TFileHandlerFactory" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>THandlerFactory.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="PFMCore.THandlerFactory.TNullHandlerFactory" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>THandlerFactory.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>THandlerFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PFMCore.TNullHandler" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TNullHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PFMCore.TPFMConfig" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAACAAAAAEAIAAAAAAIABAAAAAAAAAAAAAAABAFAAAA=</HashCode>
+      <FileName>TPFMConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PFMCore.TPFMConfigManager">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAEBICAAEAAQAAAAACgAAACAAAAEAAgA=</HashCode>
+      <FileName>TPFMConfigManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PFMCore.TPFMHandler" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TPFMHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PFMCore.TPFMSchedule" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAoAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TPFMSchedule.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PFMCore.TPFMScheduleManager" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAQAAAAEAACQAgAAQAAAAAAgBAACAAAAAAAAA=</HashCode>
+      <FileName>TPFMScheduleManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PFMCore.TZipHandler" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TZipHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft JhengHei UI" Size="9" />
+</ClassDiagram>
